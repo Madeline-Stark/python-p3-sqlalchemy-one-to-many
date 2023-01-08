@@ -1,0 +1,2 @@
+- need to `cd` into lib before running `alembic upgrade head`
+- manually changed the tests to look for score, not review score
